@@ -1,7 +1,7 @@
 // Copyright DSHNL
 
 
-#include "AuraCharacterBase.h"
+#include "Character/AuraCharacterBase.h"
 
 AAuraCharacterBase::AAuraCharacterBase()
 {
